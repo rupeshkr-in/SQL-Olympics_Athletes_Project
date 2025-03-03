@@ -1,4 +1,4 @@
-# SQL-Olympics-Athletes-Project
+# SQL-Olympics_Athletes_Project
 Set up the athlete database: Create athlete database with provided data.
 <br>
 Data Cleaning: Identify and remove any records with missing or null values.
